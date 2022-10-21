@@ -1,13 +1,13 @@
 # O_KELLA
 This repository contains a view of my industrial career in combination with artificial intelligence and data science.
 
-## 👨‍💼 __ABOUT ME__ !
+## 👨💼 __ABOUT ME__ !
 
 <img align="right" alt="github" width="150px" src="https://avatars.githubusercontent.com/u/80822786?s=400&u=5eed70f4a96c6053f07fefb721f57031a5e0f8bb&v=4" />
 
 - 👋👋 ```Hi !!! ```, I’m __KELLA OMAR__
 - 🏫 Industrial Engineering Student - Artificial Intelligence and Data Science at the [National Superior School of Arts and Crafts of Meknès](http://www.ensam-umi.ac.ma/)
-- 👀 I’m interested in Industrial Engineering, applied Machine Learning & Deep Learning solution,
+- 👀📈 I’m interested in Industrial Engineering, applied Machine Learning & Deep Learning solution,
 - 💞️ I’m looking to collaborate on applied Machine Learning projects 
 - To know more about me, check out 👉 my CV below 👇
 
