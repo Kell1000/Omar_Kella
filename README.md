@@ -15,7 +15,7 @@ This repository contains a view of my industrial career in combination with arti
 
 - [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](http://linkedin.com/in/omar-kella) [linkedin.com/in/omar-kella](http://linkedin.com/in/omar-kella)
 
-- [<img align="left" alt="github" width="26px" src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" />](https://github.com/kella1100)[https://github.com/kella1100](https://github.com/kella1100)
+- [<img align="left" alt="github" width="26px" src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" />](https://github.com/Kell1000)[https://github.com/kella1100](https://github.com/Kell1000)
 
 - [<img align="left" alt="gmail" width="22px" src="https://cdn.icon-icons.com/icons2/2428/PNG/96/gmail_black_logo_icon_147126.png" />](omarkella989@gmail.com)[omarkella989@gmail.com](omarkella989@gmail.com)
 
@@ -60,16 +60,16 @@ This repository contains a view of my industrial career in combination with arti
 ## 📈 __STATS__
   - General Stats:
   
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kella1100&theme=algolia&show_icons=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kell1000&theme=algolia&show_icons=true" />
 
   - Most used Languages:
   
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kella1100&layout=compact&theme=algolia&show_icons=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kell1000&layout=compact&theme=algolia&show_icons=true" />
 
   - Visitor Count: 
   
-    ![Visitor Count](https://profile-counter.glitch.me/{kella1100}/count.svg)
-
+    ![Visitor Count](https://profile-counter.glitch.me/{Kell1000}/count.svg)
+    
 
 ## 📝 __RESUME__
 - <a href="https://drive.google.com/file/d/170a7WZLplJIdTLgMGFMrC0dIqbgKO5PA/view?usp=sharing" target="_blank">CV (French version)</a>
