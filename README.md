@@ -41,7 +41,7 @@ This repository contains a view of my industrial career in combination with arti
   - #### Data Analysis & Machine Learning
     - <img title="Minitab" align="left" alt="Minitab" width="26px" src="http://sixsigmablackbelt.s3-ap-southeast-1.amazonaws.com/production/assets/minitab-17-mark-0a60822261c3a7d59495526f7d99a405.png" />
       <img title="Tensor Flow" align="left" alt="Tonsorflow" width="26px" src="https://s1.qwant.com/thumbr/0x380/2/5/8ac02d09475618730fa459cbc881fe21c0a06b1f012f14514a72794bbfd304/1*iDQvKoz7gGHc6YXqvqWWZQ.png?u=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*iDQvKoz7gGHc6YXqvqWWZQ.png&q=0&b=1&p=0&a=0" />
-      <img title="Keras" align="left" alt="keras" width="26px" src="http://adventuresinmachinelearning.com/wp-content/uploads/2017/05/keras-logo-small-wb-1.png" />
+      
       <img title="SkLearn" align="left" alt="sklearn" width="26px" src="https://hadrienj.github.io/assets/images/icons/sklearn.png" />
       <img title="pandas" align="left" alt="pandas" width="26px" src="https://seeklogo.com/images/P/pandas-logo-776F6D45BB-seeklogo.com.png"/>
       <img title="power bi" align="left" alt="BI" width="26px" src="https://store-images.s-microsoft.com/image/apps.9729.14405452487353876.a6612b1c-3bfc-46da-ad7e-0dd83b65757d.be9b17fe-9781-42f6-9a3e-4914ef774843?mode=scale&q=90&h=300&w=300" />
