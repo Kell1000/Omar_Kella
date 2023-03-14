@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tweet-ACHRAFFAYTOUT</title>
+    <link rel="stylesheet" href="style.css" type="text/css">
+</head>
+<body>
+    <!--
+        Explanation : why using this stucture, from my point of vue;
+        Fisrt we should look at each element in the design (V read ~ H read)
+        Obs :
+            * White background with shadow :
+                * image
+                * heading
+                * paragraph
+                * 3 divs with same properties :
+                    * image (font-awsome ...)
+                    * text (paragraph ...)
+            why using an aside element ?
+                * Defining some properties in CSS u should in most cases use the simple way
+                  u can do the same thing with another solution using only css !!
+                * H read !!
+    -->
+    <div class="All-content">
+        <img src="images/pic-tweet.png" alt = "MyPic" class="main-pic">
+        <div class="aside">
+            <h2>@Achraf_faytout</h2>
+            <p class="p-branche">Welcome to the Web Dev masterClass !!</p>
+            <div class="All-reacts">
+                <div class="react comment">
+                    <img src="images/bubble.png" alt="comment-icon" class="sec-pic">
+                    <p>122</p>
+                </div>
+                <div class="react like">
+                    <img src="images/like.png" alt="like-icon" class="sec-pic">
+                    <p>1.7k</p>
+                </div>
+                <div class="react share">
+                    <img src="images/share.png" alt="share-icon" class="sec-pic">
+                    <p>share</p>
+                </div>
+            </div>
+        </aside>
+    </div>
+</body>
+</html>

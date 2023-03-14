@@ -1,0 +1,78 @@
+@charset "utf-8";
+/*
+    topic : tweet in a single page
+    linked to index.html
+    last-modif : 10/04/2022
+*/
+
+/* ----- default settings ------ */
+
+* {
+    box-sizing:border-box;
+    padding:0;
+    margin:0;
+    font-family: Montserrat;
+}
+body {
+    background-color: #0984e3;
+}
+
+/* ------ Content-basics-Minimaliste ------- */
+.All-content {
+    display: inline-block;
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 12px;
+    box-shadow: 4px 3px 12px rgb(46, 46, 46);
+    position: fixed; /* center H and V the main container */
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    min-width: 530px; /* ~ Avoid bad User Experience in other devices ~
+                         ... in this project we won't use media Query 
+                         ... > 530px only */
+}                          
+.main-pic {
+    float: left;
+    height:150px;
+    width:150px;
+    border: 1px solid #000;
+    border-radius: 50%;
+    box-shadow: 2px 1px 5px rgb(46, 46, 46);
+}
+h2{
+    margin-top: 10px;
+}
+.sec-pic{
+    height:20px;
+    width:20px;
+    float:left;
+    margin-right: 10px;
+}
+.aside{
+    float: left;
+    margin-left: 20px;
+    height: 150px;
+}
+.p-branche{
+    margin-top: 30px;
+}
+.All-reacts{
+    display:inline-block;
+    margin-top:30px; /* if you want to change the (position) of the react
+                        section decrease this property !! */
+}
+.react{
+    float: left;
+    margin-right: 60px;
+    display: flex;
+    align-items: center;
+}
+.share{
+    margin-right: 0; /* delete wastes */
+}
+.react p{
+    float: left;
+}
+
+/* ---- Animation-MQ ---- */
