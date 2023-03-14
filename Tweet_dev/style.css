@@ -1,9 +1,4 @@
 @charset "utf-8";
-/*
-    topic : tweet in a single page
-    linked to index.html
-    last-modif : 10/04/2022
-*/
 
 /* ----- default settings ------ */
 
@@ -14,7 +9,7 @@
     font-family: Montserrat;
 }
 body {
-    background-color: #0984e3;
+    background-color: #05263e;
 }
 
 /* ------ Content-basics-Minimaliste ------- */
