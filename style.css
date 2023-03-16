@@ -1,27 +1,30 @@
 * {margin: 0;padding: 0;}
 
-body{font-family: 'Montserrat', sans-serif;}
+body{
+    font-family: 'Montserrat', sans-serif;
+    background: #bfbfca;
+}
 
 #page {
     min-height: 200px;
     width: 60%;
     min-width: 600px;
-    background: whitesmoke;
-    margin: 50px auto;
+    background: #bfbfca;
+    margin: 25px 30px;
     padding: 30px;
-    color: #072938;
+    color: #2a0738;
 }
 
 
 .photo {
     width: 15%;
-    min-width: 130px;
+    min-width: 217px;
     float: left;
-    margin-right: 20px;
+    margin-right: 29px;
 }
 
 .contact-info-box {
-    width: 70.9%;
+    width: auto;
     display: inline-block;
 }
 
@@ -34,8 +37,7 @@ body{font-family: 'Montserrat', sans-serif;}
 
 .contact-details {
     background: #07364a;
-    color: white;
-    text-align: center;
+    color: #dcc8f3;
     margin: auto;
     margin-top: 25px;
     padding: 5px;
